@@ -114,7 +114,7 @@ export default function Home() {
       {/* CTA */}
       <section className="bg-[#b08d57] py-16 text-center text-white">
         <h2 className="font-display text-3xl md:text-4xl">Ready to see your next home?</h2>
-        <Link href="/#contact" className="mt-8 inline-block border border-white px-8 py-4 text-xs uppercase tracking-[0.2em] transition hover:bg-white hover:text-neutral-900">
+        <Link href="/book" className="mt-8 inline-block border border-white px-8 py-4 text-xs uppercase tracking-[0.2em] transition hover:bg-white hover:text-neutral-900">
           Book a viewing
         </Link>
       </section>
